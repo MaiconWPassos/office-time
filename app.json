@@ -1,12 +1,9 @@
 {
   "expo": {
-    "name": "victory-natitve-test",
-    "slug": "victory-natitve-test",
-    "platforms": [
-      "ios",
-      "android",
-      "web"
-    ],
+    "name": "office-time",
+    "slug": "office-time",
+    "userInterfaceStyle": "automatic",
+    "platforms": ["ios", "android", "web"],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -18,9 +15,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     }
